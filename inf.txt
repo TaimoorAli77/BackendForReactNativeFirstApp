@@ -6,3 +6,5 @@ npm install nodemon     --save-dev
 ❯ npm i --save-dev dotenv                           // for env variaable which should not be visible for public
 npm i bcrypt                                    // for password
 npm i passport  passport-local express-session express-flash  // for login authentication or login with gmail or fb
+❯ npm i method-override           //allow us to override delete method for index.html which is not due to passport
+
